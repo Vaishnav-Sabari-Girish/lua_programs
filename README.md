@@ -1,9 +1,11 @@
 # Lua 
 
-Repo to track my Lua Learning Journey on the way to use it as an Embedded Scripting Language. 
-
 Programs and resources: <https://www.tutorialspoint.com/lua/index.htm>
 
-## Programs 
+This repo contains Lua projects I built to learn Lua. 
 
-1. [Hello World](./hello_world/hello_world.lua)
+## Projects 
+
+1. [Basic Calculator](./basic_calculator/basic_calculator.lua)
+2. [Normal Calculator](./normal_calculator/normal_calculator.lua)
+
